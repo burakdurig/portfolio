@@ -79,6 +79,20 @@ Course and personal practice apps from Kotlin/Android training. Scrubbed of live
 
 ---
 
+
+
+### Additional private engineering backups (2026-07-29)
+
+Source remains **private** on GitHub (skills cards only):
+
+| Private repo | Demonstrates |
+|--------------|--------------|
+| `b12p-telemetry` | Vehicle probe/telemetry decoding docs & Python tooling |
+| `iqs-analysis-tools` | IQS analysis scripts / product documentation workflow |
+| `databricks-cost-reduction` | Databricks FinOps / cost-reduction PRD & backlog practice |
+| `easyingestion-framework` | Medallion ingestion framework patterns (DDL/utility/docs) |
+
+
 ## Snapshot
 
 - **Public training repos:** 37
