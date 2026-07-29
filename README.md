@@ -1,29 +1,40 @@
 # Burak Durig — project portfolio
 
-*Updated 2026-07-29 · 41 personal GitHub projects*
+*Updated 2026-07-29*
 
-Public **Kotlin/Android training** apps are cloneable. Employer-related systems stay **private** (skills-only cards).
+This page is a **public index** of my GitHub work.
+
+| | Count |
+|--|--:|
+| **Public training apps** (cloneable) | 37 |
+| **Private professional backups** (skills cards only) | 8 |
+| **Profile / index repos** (`burakdurig`, `portfolio`) | 2 |
+| **Total owned repositories** | 47 |
 
 Profile: [github.com/burakdurig](https://github.com/burakdurig)
 
 ---
 
-## Featured (private — IP-safe skills cards only)
+## Featured (private — IP-safe skills cards)
+
+Source is **not** available for public clone. Interview walkthroughs available without proprietary dumps.
 
 | Project | Visibility | What it demonstrates |
 |---------|------------|----------------------|
-| **ApplicationMarketplace** | Private | Employer-branded marketplace experiment (private) |
-| **FirstApkDemoOwnersManual** | Private | Employer-branded owners-manual experiment (private) |
-| **LLMChatCoreSpec** | Private | Local LLM / agentic tooling (private) |
-| **iNOVA** | Private | Operator visual automation · allowlisted bridge · Infosec-minded design (private) |
-
-> Source not available for public clone. Interview walkthroughs available without proprietary dumps.
+| **iNOVA** | Private | Operator visual automation · allowlisted bridge · Infosec-minded design |
+| **LLMChatCoreSpec** | Private | Local LLM / agentic tooling · RAG/MCP engineering assistant |
+| **easyingestion-framework** | Private | Medallion ingestion framework patterns (DDL/utility/docs) |
+| **databricks-cost-reduction** | Private | Databricks FinOps / cost-reduction PRD & backlog |
+| **iqs-analysis-tools** | Private | IQS analysis scripts / product documentation workflow |
+| **Leaf-telemetry** | Private | Vehicle probe/telemetry decoding docs & Python tooling |
+| **ApplicationMarketplace** | Private | Employer-branded marketplace experiment — keep private |
+| **FirstApkDemoOwnersManual** | Private | Employer-branded owners-manual experiment — keep private |
 
 ---
 
 ## Kotlin / Android training lab (public)
 
-Course and personal practice apps from Kotlin/Android training. Scrubbed of live API keys where applicable (`GoogleMapApiSample`, `FirebaseCloudMessaging`).
+37 course and personal practice apps (Java/Kotlin training). API keys scrubbed where applicable (`GoogleMapApiSample`, `FirebaseCloudMessaging`).
 
 ### Architecture & patterns
 
@@ -79,29 +90,7 @@ Course and personal practice apps from Kotlin/Android training. Scrubbed of live
 
 ---
 
-
-
-### Additional private engineering backups (2026-07-29)
-
-Source remains **private** on GitHub (skills cards only):
-
-| Private repo | Demonstrates |
-|--------------|--------------|
-| `b12p-telemetry` | Vehicle probe/telemetry decoding docs & Python tooling |
-| `iqs-analysis-tools` | IQS analysis scripts / product documentation workflow |
-| `databricks-cost-reduction` | Databricks FinOps / cost-reduction PRD & backlog practice |
-| `easyingestion-framework` | Medallion ingestion framework patterns (DDL/utility/docs) |
-
-
-## Snapshot
-
-- **Public training repos:** 37
-- **Private (employer / IP):** 4
-- **Primary public stack:** Java/Kotlin Android
-
----
-
 ## IP note
 
-Work created for an employer can remain private even if you wrote every line. This portfolio separates **public training code** from **private professional systems**.
+Work created for an employer can remain private even if you wrote every line. This portfolio separates **public training code** from **private professional systems**. Employer Bitbucket is internal-only and is not linked here.
 
