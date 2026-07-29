@@ -26,7 +26,7 @@ Source is **not** available for public clone. Interview walkthroughs available w
 | **easyingestion-framework** | Private | Medallion ingestion framework patterns (DDL/utility/docs) |
 | **databricks-cost-reduction** | Private | Databricks FinOps / cost-reduction PRD & backlog |
 | **iqs-analysis-tools** | Private | IQS analysis scripts / product documentation workflow |
-| **Leaf-telemetry** | Private | Vehicle probe/telemetry decoding docs & Python tooling |
+| **Leaf-telemetry** | Private | Leaf vehicle telemetry docs & Python tooling (scrubbed private backup) |
 | **ApplicationMarketplace** | Private | Employer-branded marketplace experiment — keep private |
 | **FirstApkDemoOwnersManual** | Private | Employer-branded owners-manual experiment — keep private |
 
