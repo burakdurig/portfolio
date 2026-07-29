@@ -1,113 +1,93 @@
 # Burak Durig — project portfolio
 
-*Updated 2026-07-29 · 41 personal GitHub projects (source mostly private)*
+*Updated 2026-07-29 · 41 personal GitHub projects*
 
-This page is a **public skills index**. Proprietary / employer-related source stays in **private** repositories and is not available for public clone.
+Public **Kotlin/Android training** apps are cloneable. Employer-related systems stay **private** (skills-only cards).
 
-GitHub profile: [github.com/burakdurig](https://github.com/burakdurig)
-
----
-
-## How this portfolio stays IP-safe
-
-Even when you wrote the code yourself, **employer IP / NDA / employment agreements** often still own work created on the job or with company resources. Engineers typically showcase work by:
-
-1. **Skills, not source** — describe problems solved, stack, and your role; keep proprietary code private.
-2. **Sanitized case studies** — generalize metrics, strip logos/customer data/internal URLs ([Open Doors](https://blog.opendoorscareers.com/p/what-you-can-and-can-t-show-navigating-ndas-in-your-portfolio), [IxDF NDA guide](https://ixdf.org/literature/article/how-to-handle-non-disclosure-agreements-ndas-when-you-write-your-ux-case-study)).
-3. **Personal / learning projects** — Android samples and tutorials you own outright (most of the Java apps below).
-4. **Open source & writing** — public side projects, OSS PRs, tech blog posts that prove the same skills.
-5. **Private walkthroughs** — deeper demos under NDA or in interviews only; never assume “I built it ⇒ I can publish it.”
-
-When in doubt: ask for **written** permission, or keep the repo private and list only a high-level card here.
+Profile: [github.com/burakdurig](https://github.com/burakdurig)
 
 ---
 
-## Featured (professional / systems)
+## Featured (private — IP-safe skills cards only)
 
-| Project | Visibility | Lang | What it demonstrates |
-|---------|------------|------|----------------------|
-| **iNOVA** | Private | Python | Operator visual automation maps · fail-closed allowlisted bridge · Infosec review/export mindset · modular Python services |
-| **LLMChatCoreSpec** | Private | Python | Local LLM operator chat · agentic workflows · document/index grounding · Python tooling |
+| Project | Visibility | What it demonstrates |
+|---------|------------|----------------------|
+| **ApplicationMarketplace** | Private | Employer-branded marketplace experiment (private) |
+| **FirstApkDemoOwnersManual** | Private | Employer-branded owners-manual experiment (private) |
+| **LLMChatCoreSpec** | Private | Local LLM / agentic tooling (private) |
+| **iNOVA** | Private | Operator visual automation · allowlisted bridge · Infosec-minded design (private) |
 
-> Source for featured work is **private**. Happy to discuss approach and architecture in interviews without dumping proprietary artifacts.
+> Source not available for public clone. Interview walkthroughs available without proprietary dumps.
 
 ---
 
-## Android / Java learning lab
+## Kotlin / Android training lab (public)
 
-Personal practice apps (Java). Source is private on GitHub; listed here so recruiters can see breadth of mobile/UI work.
+Course and personal practice apps from Kotlin/Android training. Scrubbed of live API keys where applicable (`GoogleMapApiSample`, `FirebaseCloudMessaging`).
 
 ### Architecture & patterns
 
-| Project | Visibility | Lang | Focus |
-|---------|------------|------|-------|
-| **DIapp2** | Private | Java | Dependency injection patterns (Android/Java) |
-| **DependencyApp** | Private | Java | DI / dependency management samples |
-| **PatternsApp** | Private | Java | Software design patterns practice |
-| **DirectInjectionExamples** | Private | Java | DI examples |
-| **ViewModel** | Private | Java | Architecture Components ViewModel |
-| **DataBinding** | Private | Java | Android Data Binding |
-| **FragmentsApp** | Private | Java | Fragments practice |
-| **ViewPager** | Private | Java | ViewPager UI patterns |
-| **CardviewHolder** | Private | Java | CardView / ViewHolder patterns |
-| **Broadcast** | Private | Java | BroadcastReceiver patterns |
-| **WorkManager** | Private | Java | Android WorkManager background jobs |
+| Project | Lang | Link |
+|---------|------|------|
+| **DIapp2** | Java | [DIapp2](https://github.com/burakdurig/DIapp2) |
+| **DependencyApp** | Java | [DependencyApp](https://github.com/burakdurig/DependencyApp) |
+| **PatternsApp** | Java | [PatternsApp](https://github.com/burakdurig/PatternsApp) |
+| **DirectInjectionExamples** | Java | [DirectInjectionExamples](https://github.com/burakdurig/DirectInjectionExamples) |
+| **ViewModel** | Java | [ViewModel](https://github.com/burakdurig/ViewModel) |
+| **DataBinding** | Java | [DataBinding](https://github.com/burakdurig/DataBinding) |
+| **FragmentsApp** | Java | [FragmentsApp](https://github.com/burakdurig/FragmentsApp) |
+| **ViewPager** | Java | [ViewPager](https://github.com/burakdurig/ViewPager) |
+| **CardviewHolder** | Java | [CardviewHolder](https://github.com/burakdurig/CardviewHolder) |
+| **Broadcast** | Java | [Broadcast](https://github.com/burakdurig/Broadcast) |
+| **WorkManager** | Java | [WorkManager](https://github.com/burakdurig/WorkManager) |
+| **NavigationApp** | Java | [NavigationApp](https://github.com/burakdurig/NavigationApp) |
 
 ### UI / product samples
 
-| Project | Visibility | Lang | Focus |
-|---------|------------|------|-------|
-| **FoodApp** | Private | Java | Food-ordering style Android UI |
-| **MedicalApp** | Private | Java | Medical-domain Android UI sample |
-| **FashionApp** | Private | Java | Fashion retail Android UI sample |
-| **FurnitureApp** | Private | Java | Furniture retail Android UI sample |
-| **MovieApp** | Private | Java | Movie catalog sample |
-| **PagingMovieApp** | Private | Java | Paging + movie catalog |
-| **QuizApp** | Private | Java | Quiz app sample |
-| **JournalApp** | Private | Java | Journal / notes app |
-| **PhoneBookApp** | Private | Java | Contacts / phone book |
-| **ContactManagerApp** | Private | Java | Contact manager |
-| **MusicPlayerApp** | Private | Java | Music player sample |
-| **MessagingApp** | Private | Java | Messaging UI sample |
-| **NavigationApp** | Private | Java | Navigation component sample |
-| **CounterApp** | Private | Java | Counter UI sample |
-| **ApplicationMarketplace** | Private | Java | App marketplace UI sample |
-| **FirstApkDemoOwnersManual** | Private | Java | First APK / owners-manual demo |
+| Project | Lang | Link |
+|---------|------|------|
+| **FoodApp** | Java | [FoodApp](https://github.com/burakdurig/FoodApp) |
+| **MedicalApp** | Java | [MedicalApp](https://github.com/burakdurig/MedicalApp) |
+| **FashionApp** | Java | [FashionApp](https://github.com/burakdurig/FashionApp) |
+| **FurnitureApp** | Java | [FurnitureApp](https://github.com/burakdurig/FurnitureApp) |
+| **MovieApp** | Java | [MovieApp](https://github.com/burakdurig/MovieApp) |
+| **PagingMovieApp** | Java | [PagingMovieApp](https://github.com/burakdurig/PagingMovieApp) |
+| **QuizApp** | Java | [QuizApp](https://github.com/burakdurig/QuizApp) |
+| **JournalApp** | Java | [JournalApp](https://github.com/burakdurig/JournalApp) |
+| **PhoneBookApp** | Java | [PhoneBookApp](https://github.com/burakdurig/PhoneBookApp) |
+| **ContactManagerApp** | Java | [ContactManagerApp](https://github.com/burakdurig/ContactManagerApp) |
+| **MusicPlayerApp** | Java | [MusicPlayerApp](https://github.com/burakdurig/MusicPlayerApp) |
+| **MessagingApp** | Java | [MessagingApp](https://github.com/burakdurig/MessagingApp) |
+| **CounterApp** | Java | [CounterApp](https://github.com/burakdurig/CounterApp) |
+| **QuadraticEquationSolver** | Java | [QuadraticEquationSolver](https://github.com/burakdurig/QuadraticEquationSolver) |
 
 ### Device / cloud APIs
 
-| Project | Visibility | Lang | Focus |
-|---------|------------|------|-------|
-| **GoogleMapApiSample** | Private | Java | Google Maps API sample |
-| **FirebaseCloudMessaging** | Private | Java | FCM push notifications |
-| **FaceRecognitionKit** | Private | Java | Face recognition kit sample |
-| **QRScanner** | Private | Java | QR code scanner |
-| **Image2Text** | Private | Java | Image-to-text / OCR adjacent |
-| **TranslatorApp** | Private | Java | Translation app sample |
-| **OCRapp** | Private | Java | OCR Android sample |
-| **AdMobGuide** | Private | Java | AdMob integration guide |
-| **AdvancedRecyclerView** | Private | Java | RecyclerView advanced patterns |
-| **BasicAnimationTut** | Private | Java | Android animation tutorial |
-| **QuadraticEquationSolver** | Private | Java | Math utility app |
-
-### Other
-
-| Project | Visibility | Lang | Focus |
-|---------|------------|------|-------|
-| **FirestoreApp** | Private | Java | Personal project |
+| Project | Lang | Link |
+|---------|------|------|
+| **GoogleMapApiSample** | Java | [GoogleMapApiSample](https://github.com/burakdurig/GoogleMapApiSample) |
+| **FirebaseCloudMessaging** | Java | [FirebaseCloudMessaging](https://github.com/burakdurig/FirebaseCloudMessaging) |
+| **FaceRecognitionKit** | Java | [FaceRecognitionKit](https://github.com/burakdurig/FaceRecognitionKit) |
+| **QRScanner** | Java | [QRScanner](https://github.com/burakdurig/QRScanner) |
+| **Image2Text** | Java | [Image2Text](https://github.com/burakdurig/Image2Text) |
+| **TranslatorApp** | Java | [TranslatorApp](https://github.com/burakdurig/TranslatorApp) |
+| **OCRapp** | Java | [OCRapp](https://github.com/burakdurig/OCRapp) |
+| **FirestoreApp** | Java | [FirestoreApp](https://github.com/burakdurig/FirestoreApp) |
+| **AdMobGuide** | Java | [AdMobGuide](https://github.com/burakdurig/AdMobGuide) |
+| **AdvancedRecyclerView** | Java | [AdvancedRecyclerView](https://github.com/burakdurig/AdvancedRecyclerView) |
+| **BasicAnimationTut** | Java | [BasicAnimationTut](https://github.com/burakdurig/BasicAnimationTut) |
 
 ---
 
 ## Snapshot
 
-- **Total owned repos listed:** 41
-- **Public source repos:** 0 (none — portfolio card only)
-- **Private backups:** 41
-- **Primary languages:** Python (systems), Java (Android lab)
+- **Public training repos:** 37
+- **Private (employer / IP):** 4
+- **Primary public stack:** Java/Kotlin Android
 
 ---
 
-## Contact / deeper review
+## IP note
 
-For hiring conversations, request a **private walkthrough** or sanitized screenshots. Do not expect public clones of private repositories.
+Work created for an employer can remain private even if you wrote every line. This portfolio separates **public training code** from **private professional systems**.
 
